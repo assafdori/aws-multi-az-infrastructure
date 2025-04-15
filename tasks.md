@@ -66,11 +66,15 @@
   - [x] Configure log drivers
 
 ## 5. Load Balancing
-- [ ] Create Application Load Balancer
-- [ ] Configure health checks
-- [ ] Set up target groups
-- [ ] Configure SSL/TLS termination
-- [ ] Set up routing rules
+- [x] Create Application Load Balancer
+  - [x] Configure security groups
+  - [x] Set up HTTP/HTTPS listeners
+  - [x] Enable access logging
+  - [x] Configure SSL/TLS settings
+- [x] Configure health checks
+- [x] Set up target groups
+- [x] Configure SSL/TLS termination
+- [x] Set up routing rules
 
 ## 6. Monitoring and Logging
 - [ ] Set up CloudWatch dashboards
